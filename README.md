@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+勇哥威武
 ```
 
 ### Compiles and hot-reloads for development
